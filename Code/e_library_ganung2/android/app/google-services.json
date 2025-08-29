@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495667325550",
+    "firebase_url": "https://e-lib-ganung2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-lib-ganung2",
+    "storage_bucket": "e-lib-ganung2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495667325550:android:d0c9c4ab41bd382ede947f",
+        "android_client_info": {
+          "package_name": "com.example.e_library_ganung2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495667325550-rc9elv7035u94o2ubrl3cr2fmnb1l21o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_library_ganung2",
+            "certificate_hash": "221fc71d7c4bf3f9f590ac07073064fd333f7eef"
+          }
+        },
+        {
+          "client_id": "495667325550-q6pg4au573qthcnm37ll2b5gfn7tdfim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFX2v5BcT1_Dha9rZOF4QTSxTeHhSOb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495667325550-q6pg4au573qthcnm37ll2b5gfn7tdfim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
