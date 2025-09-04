@@ -1,8 +1,4 @@
-import 'package:auto_size_text/auto_size_text.dart';
-import 'package:e_library_ganung2/pages/detail_item/book_controller.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import '../model/book_model.dart';
 import '../style/color.dart';
 import '../style/textstyle.dart';
 

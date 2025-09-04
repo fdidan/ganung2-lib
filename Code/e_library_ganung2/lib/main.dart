@@ -25,8 +25,8 @@ class MyApp extends StatelessWidget {
 
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      //initialRoute: user != null ? '/navigation' : '/login',
-      initialRoute: '/navigation',
+      initialRoute: user != null ? '/navigation' : '/login',
+      //initialRoute: '/navigation',
       getPages: Routes.pages,
     );
   }

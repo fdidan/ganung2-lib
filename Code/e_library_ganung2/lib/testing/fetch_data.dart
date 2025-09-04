@@ -5,6 +5,8 @@ import '../pages/detail_item/book_controller.dart';
 class TestPage extends StatelessWidget {
   final BookController bookController = Get.put(BookController(), permanent: true);
 
+  TestPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     //bookController.fetchBooks();

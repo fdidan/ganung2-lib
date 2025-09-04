@@ -13,7 +13,7 @@ import '../../widget/item.dart';
 import '../../widget/searc_bar_card.dart';
 
 class HomeUI extends StatelessWidget {
-  HomeUI({super.key});
+  const HomeUI({super.key});
 
   @override
   Widget build(BuildContext context) {
